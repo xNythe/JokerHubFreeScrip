@@ -1,0 +1,7 @@
+if game.PlaceId == 136801880565837 then
+loadstring(game:HttpGet(''https://raw.githubusercontent.com/xNythe/JokerHubFreeScrip/refs/heads/main/Flick"))()
+return
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet(''https://raw.githubusercontent.com/xNythe/JokerHubFreeScrip/refs/heads/main/mm2"))()
+return
+end
