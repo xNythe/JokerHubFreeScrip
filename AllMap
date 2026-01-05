@@ -2,4 +2,6 @@ if game.PlaceId == 136801880565837 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xNythe/JokerHubFreeScrip/refs/heads/main/Flick.txt'))()
 elseif game.PlaceId == 142823291 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xNythe/JokerHubFreeScrip/refs/heads/main/mm2.txt'))()
+elseif game.PlaceId == 71793674075007 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/xNythe/JokerHubFreeScrip/refs/heads/main/KanomTokyo.txt'))()
 end
